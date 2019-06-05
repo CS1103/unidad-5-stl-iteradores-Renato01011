@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/e/Universidad/Ciclo 3/POO II/Class 6-5/Progression.h
+vector
+-
+
+/cygdrive/e/Universidad/Ciclo 3/POO II/Class 6-5/main.cpp
+iostream
+-
+Progression.h
+/cygdrive/e/Universidad/Ciclo 3/POO II/Class 6-5/Progression.h
+

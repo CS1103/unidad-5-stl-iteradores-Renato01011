@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Class_6_5.dir/main.cpp.o  -o Class_6_5.exe -Wl,--out-implib,libClass_6_5.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
